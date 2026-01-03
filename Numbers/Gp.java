@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 class Gp{
     public static int Nthterm(int a,int d,int n){
         return a*(int)(Math.pow(d,n-1));
@@ -13,4 +13,5 @@ class Gp{
         int N=sc.nextInt();
         System.out.println(Nthterm(a,d,N));
     }
+
 }
