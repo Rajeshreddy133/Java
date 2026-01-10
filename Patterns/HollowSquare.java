@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Square{
+class HollowSquare{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -20,4 +20,5 @@ class Square{
             System.out.println("");
         }
     }
+
 }
