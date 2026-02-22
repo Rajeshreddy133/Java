@@ -12,7 +12,7 @@ class Hollowdiamond{
                 j++;
             }
             System.out.print("*");
-            int k=2;
+            int k=1;
             while(k<=(i-1)*2){
                 System.out.print(" ");
                 k++;

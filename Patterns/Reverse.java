@@ -9,9 +9,9 @@ class Reverse{
                 if(j<=n-i){
                     System.out.print("* ");
                 }
-                else{
+                /*else{
                      System.out.print("  ");
-                }
+                }*/
             }
             System.out.println("");
         }
