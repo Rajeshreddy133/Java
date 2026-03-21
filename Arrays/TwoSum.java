@@ -26,8 +26,7 @@ class TwoSum{
         int target=sc.nextInt();
         int result[]=twoSum(nums,target);
         for(int x:result){
-            System.out.println(x+" ");    //it will peint the indexes which the values present in 
-                                          //that indexes will give the target value
+            System.out.println(x+" ");   
         }
     }
 }
