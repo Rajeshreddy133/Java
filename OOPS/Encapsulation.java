@@ -1,25 +1,28 @@
-class Person{
+class Human{
+    private int age;
     private String name;
-    private int Age;
-    public String getName(){ 
-        return name; 
-    }
     public int getAge(){
-        return Age;
+        return age;
     }
-    public void setName(String name){
-        this.name = name;
+    public void setAge(int a){
+        age=a;
     }
-    public void setAge(int age){
-        this.Age=age;
+    public String getName(){
+        return name;
     }
-}
-public class Encapsulation{
-    public static void main(String[] args){
-        Person p = new Person();
-        p.setName("Siddarth");
-        p.setAge(17);
-        System.out.println("Name : " + p.getName());
-        System.out.println("Age :"+p.getAge());
+    public void setName(String s){
+        name=s;
     }
 }
+class Encapsulation{
+    public static void main(String args[]){
+        Human obj=new Human();
+       obj.setAge(25);
+       obj.setName("John");
+       System.out.println("Name: "+obj.getName()+":"+obj.getAge());
+        //obj.name="john";
+        //obj.age=34;
+        //System.out.println("Name :"+name+":"+age);
+    }
+}
+    
