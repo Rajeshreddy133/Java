@@ -31,6 +31,7 @@ The problems are organized based on topics:
  ┗ 📂 Strings
  
 🧠 Topics Covered
+
 Arrays & Strings
 Linked List
 Stack & Queue
@@ -41,6 +42,7 @@ Dynamic Programming
 Searching & Sorting
 
 🔥 Features
+
 ✅ Clean and readable Java code
 ✅ Optimized solutions
 ✅ Regular updates (Daily practice)
@@ -55,12 +57,14 @@ Day 3	✔️
 (Updating regularly...)
 
 🚀 How to Use
+
 Clone the repository:
 git clone https://github.com/your-username/your-repo-name.git
 Open in your favorite IDE (VS Code / IntelliJ)
 Run Java files and explore solutions
 
 🎯 Future Goals
+
 Solve 300+ DSA problems
 Cover advanced topics
 Improve time & space complexity
