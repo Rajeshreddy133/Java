@@ -13,6 +13,7 @@ This repository contains my daily practice of solving Data Structures and Algori
 The problems are organized based on topics:
 
 📦 Java-DSA
+
  ┣ 📂 Arrays
  ┣ 📂 Numbers
  ┣ 📂 Collections
