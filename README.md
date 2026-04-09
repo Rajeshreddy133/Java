@@ -8,6 +8,8 @@ This repository contains my daily practice of solving Data Structures and Algori
 📚 Focus: Data Structures & Algorithms
 🎯 Goal: Improve problem-solving skills and prepare for coding interviews
 📅 Practice: Daily coding consistency
+
+
 🗂️ Repository Structure
 
 The problems are organized based on topics:
