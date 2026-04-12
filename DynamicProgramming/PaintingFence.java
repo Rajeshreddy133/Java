@@ -1,4 +1,4 @@
-package DynamicProgramming;
+
 import java.util.Scanner;
 class PaintingFence{
     public static int countWays(int n, int k) {
@@ -9,7 +9,6 @@ class PaintingFence{
         for (int i = 3; i <= n; i++) {
             int newSame = diff;
             int newDiff = (same + diff) * (k - 1);
-
             same = newSame;
             diff = newDiff;
         }
