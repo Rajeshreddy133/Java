@@ -50,6 +50,7 @@ Searching & Sorting
 📈 Progress
 
 Date	Problems Solved
+
 Day 1	✔️
 Day 2	✔️
 Day 3	✔️
@@ -59,6 +60,7 @@ Day 3	✔️
 🚀 How to Use
 
 Clone the repository:
+
 git clone https://github.com/your-username/your-repo-name.git
 Open in your favorite IDE (VS Code / IntelliJ)
 Run Java files and explore solutions
