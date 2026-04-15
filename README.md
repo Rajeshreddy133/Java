@@ -4,6 +4,7 @@ Welcome to my Java Problem Solving Repository! 🚀
 This repository contains my daily practice of solving Data Structures and Algorithms (DSA) problems using Java.
 
 📌 About
+
 👨‍💻 Language: Java
 📚 Focus: Data Structures & Algorithms
 🎯 Goal: Improve problem-solving skills and prepare for coding interviews
@@ -50,6 +51,7 @@ Searching & Sorting
 📈 Progress
 
 Date	Problems Solved
+
 Day 1	✔️
 Day 2	✔️
 Day 3	✔️
@@ -59,6 +61,7 @@ Day 3	✔️
 🚀 How to Use
 
 Clone the repository:
+
 git clone https://github.com/your-username/your-repo-name.git
 Open in your favorite IDE (VS Code / IntelliJ)
 Run Java files and explore solutions
