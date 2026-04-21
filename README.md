@@ -1,6 +1,7 @@
 💻 Java Problem Solving Repository
 
 Welcome to my Java Problem Solving Repository! 🚀
+
 This repository contains my daily practice of solving Data Structures and Algorithms (DSA) problems using Java.
 
 📌 About
@@ -72,6 +73,7 @@ Solve 300+ DSA problems
 Cover advanced topics
 Improve time & space complexity
 Participate in coding contests
+
 🤝 Contributing
 
 This is a personal learning repository, but suggestions are always welcome!
