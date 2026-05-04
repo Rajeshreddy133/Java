@@ -1,7 +1,6 @@
 import java.util.Scanner;
 class DecimalToBinary{
     public static String toBinary(int n) {
-        // Code here
         StringBuilder sb=new StringBuilder();
         while(n>0){
             if(n%2==1){
