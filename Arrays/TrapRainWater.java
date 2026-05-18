@@ -6,7 +6,7 @@ public class TrapRainWater {
         int leftMax = 0, rightMax = 0;
         int water = 0;
 
-        while (left <= right) {
+        while (left <= right){
             if (arr[left] < arr[right]) {
                 if (arr[left] >= leftMax) {
                     leftMax = arr[left];
